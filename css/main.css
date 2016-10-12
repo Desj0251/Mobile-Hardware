@@ -99,3 +99,6 @@ table th {
 table tr {
     text-align: center;
 }
+table {
+    padding-bottom: 5px;
+}
