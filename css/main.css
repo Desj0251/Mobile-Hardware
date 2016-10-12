@@ -92,8 +92,8 @@ table tr:nth-child(odd) {
     background-color: #fff;
 }
 table th {
-    color: white;
-    background-color: black;
+    color: #DFDCE3;
+    background-color: #4ABDAC;
     text-align: center;
 }
 table tr {
