@@ -11,6 +11,11 @@ html{
 html,body{
     background-color: #d4d4d4;
 }
+h1>a, 
+hi>a:visited{
+    text-decoration: none;
+    color: inherit;
+}
 h1{
     font-family: Ubuntu, sans-serif;
     font-size: 3rem;
@@ -49,6 +54,13 @@ nav li:first-child{
 }
 nav li>a:hover,
 nav li>a:active{
+    background-color: #4ABDAC;
+    color: #DFDCE3;
+    border-bottom: 0.2rem solid #F7B733;
+}
+body#galaxy li.galaxy>a,
+body#iphone li.iphone>a,
+body#hpelite li.hpelite>a{
     background-color: #4ABDAC;
     color: #DFDCE3;
     border-bottom: 0.2rem solid #F7B733;
