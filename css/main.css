@@ -54,9 +54,9 @@ nav li:first-child{
 }
 nav li>a:hover,
 nav li>a:active{
-    background-color: #4ABDAC;
-    color: #DFDCE3;
-    border-bottom: 0.2rem solid #F7B733;
+    background-color: #8AC8BF;
+    color: #666;
+/*    border-bottom: 0.2rem solid #F7B733;*/
 }
 body#galaxy li.galaxy>a,
 body#iphone li.iphone>a,
